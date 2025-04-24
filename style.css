@@ -156,3 +156,25 @@ header h1, header p{
 .footer-social img:hover {
   transform: scale(1.2);
 }
+/* portifolio page */
+.big {
+  display: flex;
+  
+}
+.first{
+  width: 40%;
+  padding: 20px;
+  float: left;
+  background-color: black;
+  
+}
+.first img{
+  width: 500px;
+  height: auto;
+}
+.second{
+  background-color: rgb(51, 73, 56);
+  float: right;
+  width:60%;
+  padding: 0px;
+}
